@@ -9,9 +9,9 @@
 - 我的邮箱：qjksxy@163.com
 - [个人博客](https://qjksxy.github.io/)
 
-![](https://img.shields.io/badge/Age-22-orange) [![](https://img.shields.io/badge/%E5%9B%B4%E6%A3%8B-9K-success)](https://www.101weiqi.com/u/piner/)
+![](https://img.shields.io/badge/Age-22-orange) [![](https://img.shields.io/badge/%E5%9B%B4%E6%A3%8B-8K-success)](https://www.101weiqi.com/u/piner/)
 
-围棋升到9K了！
+围棋升到8K了！
 
 <!--
 **qjksxy/qjksxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
