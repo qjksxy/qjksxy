@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=qjksxy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&theme=buefy"/>
 
-吉林大学混日子专家
+双辽理工大学混日子专家
 
 - 我的邮箱：qjksxy@163.com
 - [个人博客](https://qjksxy.github.io/)
