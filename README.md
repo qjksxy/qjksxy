@@ -11,7 +11,10 @@
 
 ![](https://img.shields.io/badge/Age-22-orange) [![](https://img.shields.io/badge/%E5%9B%B4%E6%A3%8B-8K-success)](https://www.101weiqi.com/u/piner/)
 
-围棋升到8K了！
+正在学习：
+- Arch Linux
+- Neovim
+- Golang
 
 <!--
 **qjksxy/qjksxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
