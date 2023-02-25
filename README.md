@@ -16,6 +16,7 @@
 - Neovim [我的 nvim 配置](https://github.com/qjksxy/nvim)
 - Golang [Golang 笔记](https://pinqing.notion.site/Golang-e6688c37a933408ab9eb14b50f33ce1f)
 - CMake [CMake笔记](https://pinqing.notion.site/CMake-4523d061b0274f6cab9c5a395315f8ba)
+- 机器学习
 
 <!--
 **qjksxy/qjksxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
