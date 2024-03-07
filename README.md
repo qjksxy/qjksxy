@@ -9,14 +9,14 @@
 - 我的邮箱：qjksxy@163.com
 - [个人博客](https://qjksxy.github.io/)
 
-![](https://img.shields.io/badge/Age-23-orange) [![](https://img.shields.io/badge/%E5%9B%B4%E6%A3%8B-8K-success)](https://www.101weiqi.com/u/piner/)
+![](https://img.shields.io/badge/Age-24-orange) [![](https://img.shields.io/badge/%E5%9B%B4%E6%A3%8B-8K-success)](https://www.101weiqi.com/u/piner/)
 
 正在学习：
-- [ ] Arch Linux [我的 Arch 之旅](https://pinqing.notion.site/Arch-45608fa1f1b74276bb32faff54257622)
-- [ ] Neovim [我的 nvim 配置](https://github.com/qjksxy/nvim)
+- [ ] ~Arch Linux~ [我的 Arch 之旅](https://pinqing.notion.site/Arch-45608fa1f1b74276bb32faff54257622)
+- [ ] ~Neovim~ [我的 nvim 配置](https://github.com/qjksxy/nvim)
 - [ ] Golang [Golang 笔记](https://pinqing.notion.site/Golang-e6688c37a933408ab9eb14b50f33ce1f)
 - [x] CMake [CMake笔记](https://pinqing.notion.site/CMake-4523d061b0274f6cab9c5a395315f8ba)
-- [ ] 机器学习
+- [ ] ~机器学习~
 
 <!--
 **qjksxy/qjksxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
