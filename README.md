@@ -1,5 +1,5 @@
 
-![image](wallhaven-l87yvp.jpg)
+![image](wallhaven-2.png)
 
 ### Hi I'm Apin! 👋
 
