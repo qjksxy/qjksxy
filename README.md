@@ -1,5 +1,5 @@
 
-![image](bg1.png)
+![image](wallhaven-2.png)
 
 ### Hi I'm Apin! 👋
 
