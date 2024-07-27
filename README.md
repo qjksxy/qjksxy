@@ -7,8 +7,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=qjksxy&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&theme=buefy"/>
 
-作息要炸了：(
-
 - 我的邮箱：qjksxy@163.com
 
 ![](https://img.shields.io/badge/Age-24-orange) [![](https://img.shields.io/badge/%E5%9B%B4%E6%A3%8B-8K-success)](https://www.101weiqi.com/u/piner/)
