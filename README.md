@@ -14,7 +14,7 @@
 当前工作：
 - [ ] Golang [Golang 笔记](https://pinqing.notion.site/Golang-e6688c37a933408ab9eb14b50f33ce1f)
 - [ ] 开发 MC 模组
-- [ ] 开发杀戮尖塔模组
+- [x] 开发杀戮尖塔模组
 
 <!--
 **qjksxy/qjksxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
